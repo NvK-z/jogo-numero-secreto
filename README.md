@@ -1,6 +1,6 @@
-***Lógica de Programação - Alura***
+<h1>Lógica de Programação - Alura</h1>
 
-***Jogo do Número Secreto***
+<h2>Jogo do Número Secreto</h2>
 
 Este projeto foi desenvolvido como parte do ***curso da Alura***
 
